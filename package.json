@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "antd": "^4.24.0",
     "react": "^18.2.0",
+    "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
     "three": "^0.146.0",
     "three-orbitcontrols": "^2.110.3"
